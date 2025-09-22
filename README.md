@@ -3,7 +3,11 @@
 A full-featured **Job Portal Application** built with the **MERN stack** 🚀  
 This platform connects **recruiters** and **job hunters** in one place, making the hiring process smoother and more transparent.
 
-🔗 **Live Demo**: [Click Here](insider-jobs-client-phi.vercel.app)
+<p>
+  <a href="https://insider-jobs-client-phi.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge" alt="Live Demo">
+  </a>
+</p>
 
 ---
 
@@ -38,22 +42,22 @@ This platform connects **recruiters** and **job hunters** in one place, making t
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](./screenshots/homepage View.png)
+![Homepage](screenshots/homepage view.png)
 
 ### Recruiter Dashboard
-![Recruiter Dashboard](./screenshots/recruiter's view (add job).png)
+![Recruiter Dashboard](screenshots/recruiter's view (add job).png)
 
 ### Recruiter Dashboard
-![Recruiter Dashboard](./screenshots/recruiter's view (manage jobs).png)
+![Recruiter Dashboard](screenshots/recruiter's view (manage jobs).png)
 
 ### Recruiter Dashboard
-![Recruiter Dashboard](./screenshots/recruiter's view (view applications).png)
+![Recruiter Dashboard](screenshots/recruiter's view (view applications).png)
 
 ### Applicant View (Resume)
-![Applicant View](./screenshots/job applications view.png)
+![Applicant View](screenshots/job applications view.png)
 
 ### Job Description View
-![Job Description View] (./screenshots/job description view.png)
+![Job Description View] (screenshots/job description view.png)
 
 ## ⚙️ Installation & Setup
 
