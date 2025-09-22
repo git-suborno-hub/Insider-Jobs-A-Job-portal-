@@ -1,6 +1,6 @@
 # 🏢 Insider Jobs
 
-A full-featured **Job Portal Application** built with the **MERN stack** 🚀  
+A full-featured **Job Portal Application** built with the **MERN stack**   
 This platform connects **recruiters** and **job hunters** in one place, making the hiring process smoother and more transparent.
 
 <p align="center">
@@ -11,23 +11,23 @@ This platform connects **recruiters** and **job hunters** in one place, making t
 
 ---
 
-## ✨ Features
+##  Features
 
-### 👩‍💼 Recruiter Panel
-- ➕ Publish new job circulars with details & requirements.
-- 👀 Manage job visibility (show/hide circulars).
-- 📑 View applicants’ profiles and resumes.
-- ✅ Accept / ❌ Reject applications from the dashboard.
+###  Recruiter Panel
+-  Publish new job circulars with details & requirements.
+-  Manage job visibility (show/hide circulars).
+-  View applicants’ profiles and resumes.
+-  Accept / ❌ Reject applications from the dashboard.
 
-### 👨‍💻 Job Hunter Panel
-- 📝 Apply for jobs with resume upload.
-- 📋 Personal dashboard to track applied jobs.
-- 🔔 See recruiter’s decision (accepted/rejected).
-- 🔎 Filter jobs by **category** and **location**.
+###  Job Hunter Panel
+-  Apply for jobs with resume upload.
+-  Personal dashboard to track applied jobs.
+-  See recruiter’s decision (accepted/rejected).
+-  Filter jobs by **category** and **location**.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer        | Technology |
 |--------------|------------|
@@ -39,7 +39,7 @@ This platform connects **recruiters** and **job hunters** in one place, making t
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Homepage
 ![Homepage](screenshots/homepage_view.png)
@@ -59,7 +59,7 @@ This platform connects **recruiters** and **job hunters** in one place, making t
 ### Job Description View
 ![Job Description View](screenshots/job_description_view.png)
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 Clone and run locally:
 
