@@ -3,9 +3,9 @@
 A full-featured **Job Portal Application** built with the **MERN stack** 🚀  
 This platform connects **recruiters** and **job hunters** in one place, making the hiring process smoother and more transparent.
 
-<p>
+<p align="center">
   <a href="https://insider-jobs-client-phi.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge" alt="Live Demo">
+    <img src="https://img.shields.io/badge/Live%20Demo-Insider%20Jobs-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
   </a>
 </p>
 
