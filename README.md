@@ -17,7 +17,7 @@ This platform connects **recruiters** and **job hunters** in one place, making t
 -  Publish new job circulars with details & requirements.
 -  Manage job visibility (show/hide circulars).
 -  View applicants’ profiles and resumes.
--  Accept / ❌ Reject applications from the dashboard.
+-  Accept /  Reject applications from the dashboard.
 
 ###  Job Hunter Panel
 -  Apply for jobs with resume upload.
