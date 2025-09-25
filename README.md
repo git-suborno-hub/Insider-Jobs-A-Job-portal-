@@ -41,23 +41,17 @@ This platform connects **recruiters** and **job hunters** in one place, making t
 
 ##  Screenshots
 
-### Homepage
-![Homepage](screenshots/homepage_view.png)
+| Home Page | Job Description View |
+|-----------|--------------|
+| ![Home](screenshots/homepage_view.png) | ![Job Description](screenshots/job_description_view.png) |
 
-### Recruiter Dashboard
-![Recruiter Dashboard](screenshots/recruiter_view_add_job.png)
+| Recruiter Add Job page | Recruiter Manage Job page |
+|--------------|------------|
+| ![Add Job](screenshots/recruiter_view_add_job.png) | ![Manage Job](screenshots/recruiter_view_manage_jobs.png) |
 
-### Recruiter Dashboard
-![Recruiter Dashboard](screenshots/recruiter_view_manage_jobs.png)
-
-### Recruiter Dashboard
-![Recruiter Dashboard](screenshots/recruiter_view_view_applications.png)
-
-### Applicant View (Resume)
-![Applicant View](screenshots/job_applications_view.png)
-
-### Job Description View
-![Job Description View](screenshots/job_description_view.png)
+| Recruiter View Application page | Applicant View page |
+|--------------|------------|
+| ![View Application](screenshots/recruiter_view_view_applications.png) | ![Applicant View](screenshots/job_applications_view.png) |
 
 ##  Installation & Setup
 
